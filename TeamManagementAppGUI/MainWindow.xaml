@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TeamManagementAppGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="480" Width="800"
-        Background="#25145E">
+        Title="Team Management Application" Height="480" Width="800"
+        Background="#25145E"
+        Icon="team-management-application-icon.png">
 
 
 

@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TeamManagementAppGUI"
         mc:Ignorable="d"
-        Title="CreateTeamWindow" Height="450" Width="500"
-        Background="#25145E">
+        Title="Create team" Height="450" Width="500"
+        Background="#25145E"
+        Icon="team-management-application-icon.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>

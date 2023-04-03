@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TeamManagementAppGUI"
         mc:Ignorable="d"
-        Title="PersonWindow" Height="450" Width="400"
-        Background="#25145E">
+        Title="Edit person" Height="450" Width="400"
+        Background="#25145E"
+        Icon="team-management-application-icon.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
